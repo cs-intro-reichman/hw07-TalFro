@@ -1,3 +1,7 @@
+/*
+Feedback: nicely written :)
+*/
+
 /** Computes the binomial(n,k) function. */
 public class Binomial {	
     public static void main(String[] args) {
@@ -47,6 +51,7 @@ public class Binomial {
 		return memo[n][k];
 	}
 }
+
 
 
 
